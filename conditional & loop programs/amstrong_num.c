@@ -11,7 +11,7 @@ int main(){
         num = num / 10 ;
 
     }
-    if (temp== num){
+    if (temp== amg){
         printf("yes, it is an amstrong number ");
     }
     else{
